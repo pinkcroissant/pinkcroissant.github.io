@@ -5,7 +5,7 @@ body {
 }
 
 body {
-  background: #000;
+  background:yellow;
   position: relative;
 }
 
@@ -123,7 +123,7 @@ a:visited {
 }
 
 .square-one .inner {
-  background: #f58428;
+  background: red;
 }
 
 .square-two .inner {
@@ -131,7 +131,7 @@ a:visited {
 }
 
 .square-three .inner {
-  background: #019cdc;
+  background: blueviolet;
 }
 
 .details {
